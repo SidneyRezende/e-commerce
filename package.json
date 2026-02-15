@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidneyRezende/e-commerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SidneyRezende/e-commerce/issues"
+  },
+  "homepage": "https://github.com/SidneyRezende/e-commerce#readme"
 }
